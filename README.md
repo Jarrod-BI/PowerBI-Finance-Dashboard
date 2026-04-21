@@ -6,3 +6,6 @@ This Power BI dashboard is designed to:
 - Support management with data driven solutions.
 - Highlight category trends and individual product drivers.
 - Present complex ongoing data in a simple, readable format.
+
+
+Data Source - The dataset used in this project was obtained from Kaggle.

@@ -9,10 +9,11 @@ This Power BI dashboard is designed to:
 
 The project involved the following steps:
 
-**Data Extraction:** Retrieved multiple CSV files from a folder and combined them into a single consolidated dataset.
-**Data Transformation & Cleaning:** Cleaned and transformed the data using Power Query.
-**Data Modelling:** Structured the dataset by creating relationships between tables and implementing a dedicated Date table.
-**DAX & Measures:** Developed calculated measures using DAX to enable key financial metrics and insights.
+**Data Extraction:** Retrieved multiple CSV files from a folder and combined them into a single consolidated dataset.<br>
+**Data Transformation & Cleaning:** Cleaned and transformed the data using Power Query.<br>
+**Data Modelling:** Structured the dataset by creating relationships between tables and implementing a dedicated Date table.<br>
+**DAX & Measures:** Developed calculated measures using DAX to enable key financial metrics and insights.<br>
 **Data Visualisation:** Designed an interactive dashboard to present insights in a clear, intuitive, and user-friendly format.
+
 
 Data Source - The dataset used in this project was obtained from Kaggle.

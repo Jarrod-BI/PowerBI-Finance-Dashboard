@@ -7,10 +7,12 @@ This Power BI dashboard is designed to:
 - Highlight category trends and individual product drivers.
 - Present complex ongoing data in a simple, readable format.
 
-The process has involved:
-- Retreiving a folder and combined CSV's into 1 dataset.
-- Transformed and cleaned data.
-- Table and DAX measure creation.
-- Presentation of data in a clean and useful way.
+The project involved the following steps:
+
+**Data Extraction:** Retrieved multiple CSV files from a folder and combined them into a single consolidated dataset.
+**Data Transformation & Cleaning:** Cleaned and transformed the data using Power Query.
+**Data Modelling:** Structured the dataset by creating relationships between tables and implementing a dedicated Date table.
+**DAX & Measures:** Developed calculated measures using DAX to enable key financial metrics and insights.
+**Data Visualisation:** Designed an interactive dashboard to present insights in a clear, intuitive, and user-friendly format.
 
 Data Source - The dataset used in this project was obtained from Kaggle.
